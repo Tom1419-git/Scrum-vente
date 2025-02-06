@@ -1,1 +1,1 @@
-Ici entrez les images des smartphones
+# Ici entrez les images des smartphones

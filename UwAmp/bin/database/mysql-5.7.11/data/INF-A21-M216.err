@@ -1,0 +1,134 @@
+2025-02-24T07:44:02.331450Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2025-02-24T07:44:02.331450Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2025-02-24T07:44:02.331450Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2025-02-24T07:44:02.331450Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2025-02-24T07:44:02.331450Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2025-02-24T07:44:02.331450Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 15436 ...
+2025-02-24T07:44:02.347075Z 0 [ERROR] Can't open shared library 'C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2025-02-24T07:44:02.347075Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Uses event mutexes
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Memory barrier is not used
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Number of pools: 1
+2025-02-24T07:44:02.347075Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2025-02-24T07:44:02.378354Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2025-02-24T07:44:02.393977Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 4285142
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 4285151
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 4285151
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Database was not shutdown normally!
+2025-02-24T07:44:02.447380Z 0 [Note] InnoDB: Starting crash recovery.
+2025-02-24T07:44:03.018868Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2025-02-24T07:44:03.018868Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2025-02-24T07:44:03.018868Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2025-02-24T07:44:03.051288Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2025-02-24T07:44:03.059324Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2025-02-24T07:44:03.059324Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2025-02-24T07:44:03.059324Z 0 [Note] InnoDB: Waiting for purge to start
+2025-02-24T07:44:03.129921Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 4285151
+2025-02-24T07:44:03.129921Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2025-02-24T07:44:03.129921Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-02-24T07:44:03.150035Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2025-02-24T07:44:03.150035Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2025-02-24T07:44:03.150035Z 0 [Note] IPv6 is available.
+2025-02-24T07:44:03.150035Z 0 [Note]   - '::' resolves to '::';
+2025-02-24T07:44:03.150035Z 0 [Note] Server socket created on IP: '::'.
+2025-02-24T07:44:03.177813Z 0 [Note] InnoDB: Buffer pool(s) load completed at 250224  8:44:03
+2025-02-24T07:44:03.194481Z 0 [Note] Event Scheduler: Loaded 0 events
+2025-02-24T07:44:03.194481Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: ready for connections.
+Version: '5.7.11'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2025-02-24T07:44:58.540417Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: Normal shutdown
+
+2025-02-24T07:44:58.540417Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down slave threads
+2025-02-24T07:44:58.540417Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2025-02-24T07:44:58.540417Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2025-02-24T07:44:58.540417Z 0 [Note] Binlog end
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'ngram'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'partition'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'MyISAM'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2025-02-24T07:44:58.540417Z 0 [Note] Shutting down plugin 'InnoDB'
+2025-02-24T07:44:58.540417Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-02-24T07:44:58.540417Z 0 [Note] InnoDB: Starting shutdown...
+2025-02-24T07:44:58.663873Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-02-24T07:44:58.663873Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 250224  8:44:58
+2025-02-24T07:44:59.767177Z 0 [Note] InnoDB: Shutdown completed; log sequence number 4285515
+2025-02-24T07:44:59.767177Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2025-02-24T07:44:59.767177Z 0 [Note] Shutting down plugin 'MEMORY'
+2025-02-24T07:44:59.767177Z 0 [Note] Shutting down plugin 'CSV'
+2025-02-24T07:44:59.767177Z 0 [Note] Shutting down plugin 'sha256_password'
+2025-02-24T07:44:59.767177Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2025-02-24T07:44:59.767177Z 0 [Note] Shutting down plugin 'binlog'
+2025-02-24T07:44:59.767177Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: Shutdown complete
+
+2025-02-24T07:45:52.338523Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2025-02-24T07:45:52.338523Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2025-02-24T07:45:52.338523Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2025-02-24T07:45:52.338523Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2025-02-24T07:45:52.338523Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2025-02-24T07:45:52.338523Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 20692 ...
+2025-02-24T07:45:52.338523Z 0 [ERROR] Can't open shared library 'C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2025-02-24T07:45:52.338523Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Uses event mutexes
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Memory barrier is not used
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Number of pools: 1
+2025-02-24T07:45:52.338523Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2025-02-24T07:45:52.378522Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2025-02-24T07:45:52.386582Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-02-24T07:45:52.426784Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2025-02-24T07:45:52.530117Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2025-02-24T07:45:52.530117Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2025-02-24T07:45:52.560674Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2025-02-24T07:45:52.570876Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2025-02-24T07:45:52.570876Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2025-02-24T07:45:52.570876Z 0 [Note] InnoDB: Waiting for purge to start
+2025-02-24T07:45:52.640572Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 4285515
+2025-02-24T07:45:52.640572Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2025-02-24T07:45:52.640572Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-02-24T07:45:52.671838Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2025-02-24T07:45:52.671838Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2025-02-24T07:45:52.671838Z 0 [Note] IPv6 is available.
+2025-02-24T07:45:52.671838Z 0 [Note]   - '::' resolves to '::';
+2025-02-24T07:45:52.671838Z 0 [Note] Server socket created on IP: '::'.
+2025-02-24T07:45:52.703034Z 0 [Note] InnoDB: Buffer pool(s) load completed at 250224  8:45:52
+2025-02-24T07:45:52.709541Z 0 [Note] Event Scheduler: Loaded 0 events
+2025-02-24T07:45:52.709541Z 0 [Note] C:\Users\pe40boh\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: ready for connections.
+Version: '5.7.11'  socket: ''  port: 3306  MySQL Community Server (GPL)

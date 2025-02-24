@@ -144,3 +144,41 @@
 [Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   8. WP_Http->request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-http.php:619
 [Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   9. WpOrg\\Requests\\Requests::request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-http.php:396
 [Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP  10. WpOrg\\Requests\\Transport\\Curl->request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\Requests\\src\\Requests.php:469
+[Mon Feb 24 08:44:02.610178 2025] [ssl:warn] [pid 27152:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:44:02.610178 2025] [ssl:warn] [pid 27152:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:44:02.632343 2025] [core:warn] [pid 27152:tid 752] AH00098: pid file C:/Users/pe40boh/Documents/GitHub/Scrum-vente/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 08:44:02.694850 2025] [ssl:warn] [pid 27152:tid 752] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:44:02.694850 2025] [ssl:warn] [pid 27152:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:44:02.694850 2025] [ssl:warn] [pid 27152:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:44:03.327444 2025] [mpm_winnt:notice] [pid 27152:tid 752] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 24 08:44:03.327444 2025] [mpm_winnt:notice] [pid 27152:tid 752] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 24 08:44:03.327444 2025] [core:notice] [pid 27152:tid 752] AH00094: Command line: 'C:\\Users\\pe40boh\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/pe40boh/Documents/GitHub/Scrum-vente/UwAmp/bin/apache -f C:\\Users\\pe40boh\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 24 08:44:03.327444 2025] [mpm_winnt:notice] [pid 27152:tid 752] AH00418: Parent: Created child process 7256
+[Mon Feb 24 08:44:03.772397 2025] [ssl:warn] [pid 7256:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:44:03.772397 2025] [ssl:warn] [pid 7256:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:44:03.843837 2025] [ssl:warn] [pid 7256:tid 664] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:44:03.843837 2025] [ssl:warn] [pid 7256:tid 664] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:44:03.843837 2025] [ssl:warn] [pid 7256:tid 664] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:44:03.870379 2025] [mpm_winnt:notice] [pid 7256:tid 664] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 08:44:58.363058 2025] [mpm_winnt:crit] [pid 7256:tid 664] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 08:44:58.363058 2025] [mpm_winnt:warn] [pid 7256:tid 1508] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Feb 24 08:44:58.363058 2025] [mpm_winnt:warn] [pid 7256:tid 1520] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Feb 24 08:44:58.363058 2025] [mpm_winnt:warn] [pid 7256:tid 856] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Feb 24 08:44:58.363058 2025] [mpm_winnt:warn] [pid 7256:tid 868] (OS 995)L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Feb 24 08:45:52.656191 2025] [ssl:warn] [pid 8624:tid 788] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:45:52.656191 2025] [ssl:warn] [pid 8624:tid 788] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:45:52.671838 2025] [core:warn] [pid 8624:tid 788] AH00098: pid file C:/Users/pe40boh/Documents/GitHub/Scrum-vente/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 08:45:52.725186 2025] [ssl:warn] [pid 8624:tid 788] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:45:52.740799 2025] [ssl:warn] [pid 8624:tid 788] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:45:52.740799 2025] [ssl:warn] [pid 8624:tid 788] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:45:52.756424 2025] [mpm_winnt:notice] [pid 8624:tid 788] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 24 08:45:52.756424 2025] [mpm_winnt:notice] [pid 8624:tid 788] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 24 08:45:52.756424 2025] [core:notice] [pid 8624:tid 788] AH00094: Command line: 'C:\\Users\\pe40boh\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/pe40boh/Documents/GitHub/Scrum-vente/UwAmp/bin/apache -f C:\\Users\\pe40boh\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 24 08:45:52.756424 2025] [mpm_winnt:notice] [pid 8624:tid 788] AH00418: Parent: Created child process 17328
+[Mon Feb 24 08:45:53.187596 2025] [ssl:warn] [pid 17328:tid 744] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:45:53.187596 2025] [ssl:warn] [pid 17328:tid 744] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:45:53.265780 2025] [ssl:warn] [pid 17328:tid 744] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:45:53.265780 2025] [ssl:warn] [pid 17328:tid 744] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:45:53.265780 2025] [ssl:warn] [pid 17328:tid 744] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:45:53.281384 2025] [mpm_winnt:notice] [pid 17328:tid 744] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 08:55:56.530459 2025] [core:error] [pid 17328:tid 1508] (20024)The given path is misformatted or contained invalid characters: [client ::1:58003] AH00127: Cannot map GET /wordpress-6.4.5/wordpress/:8000 HTTP/1.1 to file

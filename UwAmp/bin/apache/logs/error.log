@@ -1,0 +1,146 @@
+[Sun Feb 02 20:46:44.192601 2025] [ssl:warn] [pid 19344:tid 628] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:44.193570 2025] [ssl:warn] [pid 19344:tid 628] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:44.281549 2025] [ssl:warn] [pid 19344:tid 628] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Feb 02 20:46:44.282546 2025] [ssl:warn] [pid 19344:tid 628] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:44.282546 2025] [ssl:warn] [pid 19344:tid 628] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:44.897132 2025] [mpm_winnt:notice] [pid 19344:tid 628] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Sun Feb 02 20:46:44.897132 2025] [mpm_winnt:notice] [pid 19344:tid 628] AH00456: Server built: Jan 28 2016 09:58:25
+[Sun Feb 02 20:46:44.897132 2025] [core:notice] [pid 19344:tid 628] AH00094: Command line: 'E:\\TEMPLATES\\UwAmp\\bin\\apache\\bin\\httpd.exe -d E:/TEMPLATES/UwAmp/bin/apache -f E:\\TEMPLATES\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Sun Feb 02 20:46:44.902147 2025] [mpm_winnt:notice] [pid 19344:tid 628] AH00418: Parent: Created child process 18456
+[Sun Feb 02 20:46:45.462934 2025] [ssl:warn] [pid 18456:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:45.463933 2025] [ssl:warn] [pid 18456:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:45.606987 2025] [ssl:warn] [pid 18456:tid 640] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Feb 02 20:46:45.606987 2025] [ssl:warn] [pid 18456:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:45.606987 2025] [ssl:warn] [pid 18456:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:45.629353 2025] [mpm_winnt:notice] [pid 18456:tid 640] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 02 20:46:51.317133 2025] [mpm_winnt:crit] [pid 18456:tid 640] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sun Feb 02 20:46:53.595720 2025] [ssl:warn] [pid 19956:tid 620] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:53.595720 2025] [ssl:warn] [pid 19956:tid 620] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:53.612707 2025] [core:warn] [pid 19956:tid 620] AH00098: pid file E:/TEMPLATES/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 02 20:46:53.672597 2025] [ssl:warn] [pid 19956:tid 620] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Feb 02 20:46:53.672597 2025] [ssl:warn] [pid 19956:tid 620] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:53.672597 2025] [ssl:warn] [pid 19956:tid 620] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:54.153961 2025] [mpm_winnt:notice] [pid 19956:tid 620] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Sun Feb 02 20:46:54.153961 2025] [mpm_winnt:notice] [pid 19956:tid 620] AH00456: Server built: Jan 28 2016 09:58:25
+[Sun Feb 02 20:46:54.153961 2025] [core:notice] [pid 19956:tid 620] AH00094: Command line: 'E:\\TEMPLATES\\UwAmp\\bin\\apache\\bin\\httpd.exe -d E:/TEMPLATES/UwAmp/bin/apache -f E:\\TEMPLATES\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Sun Feb 02 20:46:54.158982 2025] [mpm_winnt:notice] [pid 19956:tid 620] AH00418: Parent: Created child process 13616
+[Sun Feb 02 20:46:54.680978 2025] [ssl:warn] [pid 13616:tid 568] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:54.680978 2025] [ssl:warn] [pid 13616:tid 568] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:54.749794 2025] [ssl:warn] [pid 13616:tid 568] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Feb 02 20:46:54.749794 2025] [ssl:warn] [pid 13616:tid 568] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 02 20:46:54.749794 2025] [ssl:warn] [pid 13616:tid 568] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Feb 02 20:46:54.769738 2025] [mpm_winnt:notice] [pid 13616:tid 568] AH00354: Child: Starting 64 worker threads.
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-filesystem-direct.php on line 80
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP Stack trace:
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   1. {main}() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:0
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   2. do_action_ref_array() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:191
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   3. WP_Hook->do_action() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\plugin.php:565
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   4. WP_Hook->apply_filters() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:348
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   5. wp_version_check() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:324
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   6. do_action() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\update.php:292
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   7. WP_Hook->do_action() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\plugin.php:517
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   8. WP_Hook->apply_filters() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:348
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP   9. wp_maybe_auto_update() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:324
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  10. WP_Automatic_Updater->run() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\update.php:852
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  11. WP_Automatic_Updater->update() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-automatic-updater.php:550
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  12. Core_Upgrader->upgrade() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-automatic-updater.php:459
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  13. WP_Upgrader->unpack_package() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-core-upgrader.php:152
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  14. unzip_file() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-upgrader.php:382
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  15. _unzip_file_ziparchive() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\file.php:1657
+[Sun Feb 02 20:53:30.145604 2025] [:error] [pid 13616:tid 1356] [client ::1:64799] PHP  16. WP_Filesystem_Direct->put_contents() E:\\TEMPLATES\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\file.php:1835
+[Mon Feb 03 08:17:31.341942 2025] [ssl:warn] [pid 30168:tid 740] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 03 08:17:31.341942 2025] [ssl:warn] [pid 30168:tid 740] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 08:17:31.364075 2025] [core:warn] [pid 30168:tid 740] AH00098: pid file D:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 03 08:17:31.464406 2025] [ssl:warn] [pid 30168:tid 740] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 03 08:17:31.464406 2025] [ssl:warn] [pid 30168:tid 740] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 03 08:17:31.464406 2025] [ssl:warn] [pid 30168:tid 740] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 08:17:31.976368 2025] [mpm_winnt:notice] [pid 30168:tid 740] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 03 08:17:31.976368 2025] [mpm_winnt:notice] [pid 30168:tid 740] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 03 08:17:31.976368 2025] [core:notice] [pid 30168:tid 740] AH00094: Command line: 'D:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/UwAmp/bin/apache -f D:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 03 08:17:31.976368 2025] [mpm_winnt:notice] [pid 30168:tid 740] AH00418: Parent: Created child process 21920
+[Mon Feb 03 08:17:32.626467 2025] [ssl:warn] [pid 21920:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 03 08:17:32.626467 2025] [ssl:warn] [pid 21920:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 08:17:32.701514 2025] [ssl:warn] [pid 21920:tid 752] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 03 08:17:32.701514 2025] [ssl:warn] [pid 21920:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 03 08:17:32.701514 2025] [ssl:warn] [pid 21920:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 03 08:17:32.732752 2025] [mpm_winnt:notice] [pid 21920:tid 752] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-filesystem-direct.php on line 80
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP Stack trace:
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   1. {main}() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:0
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   2. do_action_ref_array() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:191
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   3. WP_Hook->do_action() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\plugin.php:565
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   4. WP_Hook->apply_filters() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:348
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   5. wp_version_check() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:324
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   6. do_action() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\update.php:292
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   7. WP_Hook->do_action() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\plugin.php:517
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   8. WP_Hook->apply_filters() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:348
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP   9. wp_maybe_auto_update() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:324
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  10. WP_Automatic_Updater->run() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\update.php:852
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  11. WP_Automatic_Updater->update() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-automatic-updater.php:550
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  12. Core_Upgrader->upgrade() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-automatic-updater.php:459
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  13. WP_Upgrader->unpack_package() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-core-upgrader.php:152
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  14. unzip_file() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\class-wp-upgrader.php:382
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  15. _unzip_file_ziparchive() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\file.php:1657
+[Mon Feb 03 09:05:01.911864 2025] [:error] [pid 21920:tid 1424] [client ::1:64698] PHP  16. WP_Filesystem_Direct->put_contents() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-admin\\includes\\file.php:1835
+[Mon Feb 03 09:06:23.207677 2025] [mpm_winnt:crit] [pid 21920:tid 752] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 08:16:46.201979 2025] [ssl:warn] [pid 30280:tid 716] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:16:46.201979 2025] [ssl:warn] [pid 30280:tid 716] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:16:46.233188 2025] [core:warn] [pid 30280:tid 716] AH00098: pid file D:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 08:16:46.295716 2025] [ssl:warn] [pid 30280:tid 716] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:16:46.295716 2025] [ssl:warn] [pid 30280:tid 716] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:16:46.295716 2025] [ssl:warn] [pid 30280:tid 716] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:16:48.104771 2025] [mpm_winnt:notice] [pid 30280:tid 716] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 24 08:16:48.104771 2025] [mpm_winnt:notice] [pid 30280:tid 716] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 24 08:16:48.104771 2025] [core:notice] [pid 30280:tid 716] AH00094: Command line: 'D:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/UwAmp/bin/apache -f D:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 24 08:16:48.104771 2025] [mpm_winnt:notice] [pid 30280:tid 716] AH00418: Parent: Created child process 18604
+[Mon Feb 24 08:16:48.736567 2025] [ssl:warn] [pid 18604:tid 724] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:16:48.736567 2025] [ssl:warn] [pid 18604:tid 724] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:16:48.799066 2025] [ssl:warn] [pid 18604:tid 724] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:16:48.799066 2025] [ssl:warn] [pid 18604:tid 724] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:16:48.799066 2025] [ssl:warn] [pid 18604:tid 724] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:16:48.830288 2025] [mpm_winnt:notice] [pid 18604:tid 724] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 08:20:42.782272 2025] [ssl:warn] [pid 23824:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:20:42.782272 2025] [ssl:warn] [pid 23824:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:20:42.797898 2025] [core:warn] [pid 23824:tid 708] AH00098: pid file D:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 08:20:42.860371 2025] [ssl:warn] [pid 23824:tid 708] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:20:42.860371 2025] [ssl:warn] [pid 23824:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:20:42.860371 2025] [ssl:warn] [pid 23824:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:20:43.345961 2025] [mpm_winnt:notice] [pid 23824:tid 708] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 24 08:20:43.345961 2025] [mpm_winnt:notice] [pid 23824:tid 708] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 24 08:20:43.345961 2025] [core:notice] [pid 23824:tid 708] AH00094: Command line: 'D:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/UwAmp/bin/apache -f D:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 24 08:20:43.361565 2025] [mpm_winnt:notice] [pid 23824:tid 708] AH00418: Parent: Created child process 10904
+[Mon Feb 24 08:20:43.938430 2025] [ssl:warn] [pid 10904:tid 720] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:20:43.938430 2025] [ssl:warn] [pid 10904:tid 720] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:20:44.007440 2025] [ssl:warn] [pid 10904:tid 720] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:20:44.007440 2025] [ssl:warn] [pid 10904:tid 720] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:20:44.007440 2025] [ssl:warn] [pid 10904:tid 720] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:20:44.038635 2025] [mpm_winnt:notice] [pid 10904:tid 720] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 08:22:07.920915 2025] [mpm_winnt:crit] [pid 10904:tid 720] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Feb 24 08:22:13.686896 2025] [ssl:warn] [pid 36552:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:22:13.686896 2025] [ssl:warn] [pid 36552:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:22:13.702484 2025] [core:warn] [pid 36552:tid 708] AH00098: pid file D:/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 08:22:13.755907 2025] [ssl:warn] [pid 36552:tid 708] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:22:13.755907 2025] [ssl:warn] [pid 36552:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:22:13.755907 2025] [ssl:warn] [pid 36552:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:22:13.787104 2025] [mpm_winnt:notice] [pid 36552:tid 708] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon Feb 24 08:22:13.787104 2025] [mpm_winnt:notice] [pid 36552:tid 708] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon Feb 24 08:22:13.787104 2025] [core:notice] [pid 36552:tid 708] AH00094: Command line: 'D:\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/UwAmp/bin/apache -f D:\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon Feb 24 08:22:13.787104 2025] [mpm_winnt:notice] [pid 36552:tid 708] AH00418: Parent: Created child process 28912
+[Mon Feb 24 08:22:14.383105 2025] [ssl:warn] [pid 28912:tid 720] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:22:14.383105 2025] [ssl:warn] [pid 28912:tid 720] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:22:14.452124 2025] [ssl:warn] [pid 28912:tid 720] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Feb 24 08:22:14.467745 2025] [ssl:warn] [pid 28912:tid 720] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 24 08:22:14.467745 2025] [ssl:warn] [pid 28912:tid 720] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 08:22:14.483319 2025] [mpm_winnt:notice] [pid 28912:tid 720] AH00354: Child: Starting 64 worker threads.
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\Requests\\src\\Transport\\Curl.php on line 204
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP Stack trace:
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   1. {main}() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:0
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   2. do_action_ref_array() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-cron.php:191
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   3. WP_Hook->do_action() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\plugin.php:565
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   4. WP_Hook->apply_filters() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:348
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   5. wp_version_check() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-hook.php:324
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   6. wp_remote_post() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\update.php:202
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   7. WP_Http->post() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\http.php:186
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   8. WP_Http->request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-http.php:619
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP   9. WpOrg\\Requests\\Requests::request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\class-wp-http.php:396
+[Mon Feb 24 08:24:10.762540 2025] [:error] [pid 28912:tid 1428] [client ::1:58062] PHP  10. WpOrg\\Requests\\Transport\\Curl->request() D:\\UwAmp\\www\\wordpress-6.4.5\\wordpress\\wp-includes\\Requests\\src\\Requests.php:469

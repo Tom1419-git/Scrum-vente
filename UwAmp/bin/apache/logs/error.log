@@ -235,3 +235,36 @@
 [Thu Feb 27 08:42:29.671839 2025] [ssl:warn] [pid 12664:tid 736] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
 [Thu Feb 27 08:42:29.671839 2025] [ssl:warn] [pid 12664:tid 736] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Feb 27 08:42:29.687484 2025] [mpm_winnt:notice] [pid 12664:tid 736] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 27 09:10:54.071659 2025] [ssl:warn] [pid 3076:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:10:54.071659 2025] [ssl:warn] [pid 3076:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:10:54.087300 2025] [core:warn] [pid 3076:tid 708] AH00098: pid file C:/Users/thomayoraz/Documents/GitHub/Scrum-vente/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 09:10:54.134158 2025] [ssl:warn] [pid 3076:tid 708] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Feb 27 09:10:54.134158 2025] [ssl:warn] [pid 3076:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:10:54.134158 2025] [ssl:warn] [pid 3076:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:10:54.634158 2025] [mpm_winnt:notice] [pid 3076:tid 708] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Feb 27 09:10:54.634158 2025] [mpm_winnt:notice] [pid 3076:tid 708] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Feb 27 09:10:54.634158 2025] [core:notice] [pid 3076:tid 708] AH00094: Command line: 'C:\\Users\\thomayoraz\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/thomayoraz/Documents/GitHub/Scrum-vente/UwAmp/bin/apache -f C:\\Users\\thomayoraz\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Feb 27 09:10:54.634158 2025] [mpm_winnt:notice] [pid 3076:tid 708] AH00418: Parent: Created child process 5376
+[Thu Feb 27 09:10:55.056028 2025] [ssl:warn] [pid 5376:tid 744] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:10:55.056028 2025] [ssl:warn] [pid 5376:tid 744] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:10:55.118528 2025] [ssl:warn] [pid 5376:tid 744] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Feb 27 09:10:55.118528 2025] [ssl:warn] [pid 5376:tid 744] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:10:55.118528 2025] [ssl:warn] [pid 5376:tid 744] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:10:55.134153 2025] [mpm_winnt:notice] [pid 5376:tid 744] AH00354: Child: Starting 64 worker threads.
+[Thu Feb 27 09:12:30.649552 2025] [mpm_winnt:crit] [pid 5376:tid 744] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Feb 27 09:12:32.597747 2025] [ssl:warn] [pid 4144:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:12:32.597747 2025] [ssl:warn] [pid 4144:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:12:32.613313 2025] [core:warn] [pid 4144:tid 708] AH00098: pid file C:/Users/thomayoraz/Documents/GitHub/Scrum-vente/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 09:12:32.660098 2025] [ssl:warn] [pid 4144:tid 708] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Feb 27 09:12:32.660098 2025] [ssl:warn] [pid 4144:tid 708] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:12:32.660098 2025] [ssl:warn] [pid 4144:tid 708] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:12:32.675683 2025] [mpm_winnt:notice] [pid 4144:tid 708] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Feb 27 09:12:32.675683 2025] [mpm_winnt:notice] [pid 4144:tid 708] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Feb 27 09:12:32.675683 2025] [core:notice] [pid 4144:tid 708] AH00094: Command line: 'C:\\Users\\thomayoraz\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/thomayoraz/Documents/GitHub/Scrum-vente/UwAmp/bin/apache -f C:\\Users\\thomayoraz\\Documents\\GitHub\\Scrum-vente\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Feb 27 09:12:32.675683 2025] [mpm_winnt:notice] [pid 4144:tid 708] AH00418: Parent: Created child process 2408
+[Thu Feb 27 09:12:33.096825 2025] [ssl:warn] [pid 2408:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:12:33.096825 2025] [ssl:warn] [pid 2408:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:12:33.159213 2025] [ssl:warn] [pid 2408:tid 752] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Feb 27 09:12:33.159213 2025] [ssl:warn] [pid 2408:tid 752] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Feb 27 09:12:33.159213 2025] [ssl:warn] [pid 2408:tid 752] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 09:12:33.174781 2025] [mpm_winnt:notice] [pid 2408:tid 752] AH00354: Child: Starting 64 worker threads.

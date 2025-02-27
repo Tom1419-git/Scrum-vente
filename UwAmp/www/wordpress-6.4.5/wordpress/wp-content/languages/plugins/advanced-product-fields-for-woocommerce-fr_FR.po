@@ -1,0 +1,864 @@
+# Translation of Plugins - Advanced Product Fields (Product Addons) for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Advanced Product Fields (Product Addons) for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-29 18:02:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Advanced Product Fields (Product Addons) for WooCommerce - Stable (latest release)\n"
+
+#: views/admin/field-list.php:28
+msgid "Add a Field"
+msgstr "Ajouter un champ"
+
+#: includes/classes/class-fields.php:96
+msgid "Content: shortcodes & HTML"
+msgstr "Contenu : codes courts & HTML"
+
+#: includes/classes/class-fields.php:91
+msgid "Calculation"
+msgstr "Calcul"
+
+#: views/frontend/product-totals.php:17
+msgid "Grand total"
+msgstr "Total général"
+
+#: views/frontend/product-totals.php:13
+msgid "Options total"
+msgstr "Total des options"
+
+#: views/frontend/product-totals.php:9
+msgid "Product total"
+msgstr "Total produit"
+
+#: views/frontend/fields/select.php:15
+msgid "Choose an option"
+msgstr "Choisir une option"
+
+#: views/admin/settings/types.php:16
+msgid " (Pro only)"
+msgstr " (Pro uniquement)"
+
+#: views/admin/settings/true-false.php:8
+msgid "(Pro only)"
+msgstr "(Pro uniquement)"
+
+#: views/admin/settings/pricing.php:21 views/admin/settings/true-false.php:19
+msgid "No"
+msgstr "Non"
+
+#: views/admin/settings/pricing.php:21 views/admin/settings/true-false.php:19
+msgid "Yes"
+msgstr "Oui"
+
+#: views/admin/settings/options.php:54 views/admin/settings/pricing.php:42
+msgid "Important note about pricing"
+msgstr "Note importante concernant la tarification"
+
+#: views/admin/settings/options.php:54 views/admin/settings/pricing.php:42
+msgid "<p>please note the pricing option in the free version has some limitations:</p><ul style='list-style: disc;margin-left:30px;'><li>Add-on pricing is not quantity-based. This means if the user changes the product quantity, the price does not multiply, but stays the same.</li><li>You can only use the \"flat fee\" option.</li></ul><p><a target=\"_blank\" href=\"https://www.studiowombat.com/knowledge-base/all-pricing-options-explained/?utm_source=apffree&utm_medium=plugin&utm_campaign=info\">See which other pricing options</a> are available in the premium verion.</p>"
+msgstr "<p>veuillez noter que l’option de tarification de la version gratuite comporte certaines limitations : </p><ul style='list-style: disc;margin-left:30px;'><li>La tarification du module n’est pas basée sur la quantité. Cela signifie que si l’utilisateur/utilisatrice modifie la quantité du produit, le prix n’est pas multiplié, mais reste inchangé.</li><li>Vous pouvez uniquement utiliser l’option « forfait ».</li></ul><p><a target=\"_blank\" href=\"https://www.studiowombat.com/knowledge-base/all-pricing-options-explained/?utm_source=apffree&utm_medium=plugin&utm_campaign=info\">Voir quelles sont les autres options tarifaires</a> disponibles dans la version premium.</p>"
+
+#: views/admin/settings/options.php:51
+msgid "Add option"
+msgstr "Ajouter une option"
+
+#: views/admin/settings/options.php:32
+msgid "No price change"
+msgstr "Aucune modification de prix"
+
+#: views/admin/settings/options.php:22
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: views/admin/settings/options.php:20
+msgid "Pricing amount"
+msgstr "Montant de la tarification"
+
+#: views/admin/settings/options.php:17
+msgid "Unique key"
+msgstr "Clé unique"
+
+#: views/admin/settings/options.php:16
+msgid "Option label"
+msgstr "Libellé de l’option"
+
+#: views/admin/settings/conditionals.php:48
+msgid "Add new rule group"
+msgstr "Ajouter un groupe de règles"
+
+#: views/admin/settings/conditionals.php:40
+msgid "Delete"
+msgstr "Supprimer"
+
+#: views/admin/settings/conditionals.php:16
+msgid "You need atleast 2 fields to create conditional rules. Add another field first."
+msgstr "Vous avez besoin d’au moins 2 champs pour créer des règles conditionnelles. Ajoutez d’abord un autre champ."
+
+#: views/admin/settings/attributes.php:25
+msgid "Class"
+msgstr "Classe"
+
+#: views/admin/settings/attributes.php:14
+msgid "Width"
+msgstr "Largeur"
+
+#: views/admin/layout.php:55
+msgid "Should the product image change when options are selected?"
+msgstr "L’image du produit doit-elle changer lorsque des options sont sélectionnées ?"
+
+#: views/admin/layout.php:54
+msgid "Change product image"
+msgstr "Modifier l’image du produit"
+
+#: views/admin/layout.php:47
+msgid "Add a *-symbol next to required fields."
+msgstr "Ajouter un symbole * à côté des champs obligatoires."
+
+#: views/admin/layout.php:46
+msgid "Mark required fields"
+msgstr "Marquer les champs obligatoires"
+
+#: views/admin/layout.php:37
+msgid "Below the label"
+msgstr "En dessous du libellé"
+
+#: views/admin/layout.php:35
+msgid "Where should the instructions be positioned?"
+msgstr "Où les instructions doivent-elles être placées ?"
+
+#: views/admin/layout.php:34
+msgid "Instruction position"
+msgstr "Position de l’instruction"
+
+#: views/admin/layout.php:26 views/admin/layout.php:38
+msgid "Below the field"
+msgstr "En dessous du champ"
+
+#: views/admin/layout.php:25
+msgid "Above the field"
+msgstr "Au-dessus du champ"
+
+#: views/admin/layout.php:23
+msgid "Where should the label be positioned in relation to the field?"
+msgstr "Où le libellé doit-il être positionné par rapport au champ ?"
+
+#: views/admin/layout.php:22
+msgid "Label position"
+msgstr "Position du libellé"
+
+#: views/admin/help-modal.php:8
+msgid "View help"
+msgstr "Voir l’aide"
+
+#: views/admin/field.php:141
+msgid "Wrapper attributes"
+msgstr "Attributs du conteneur"
+
+#: views/admin/field.php:132
+msgid "Only show this field when conditional rules are true."
+msgstr "Afficher ce champ uniquement lorsque les règles conditionnelles sont vérifiées."
+
+#: views/admin/field.php:131
+msgid "Conditionals"
+msgstr "Conditionnels"
+
+#: views/admin/field.php:122
+msgid "Should this field be repeated multiple times either by a button or quantity input box?"
+msgstr "Ce champ doit-il être répété plusieurs fois, soit par un bouton, soit par une zone de saisie de quantité ?"
+
+#: views/admin/field.php:121
+msgid "Repeat field"
+msgstr "Répéter le champ"
+
+#: views/admin/field.php:98
+msgid "Select \"yes\" if the field should require input from the user."
+msgstr "Sélectionnez « oui » si le champ nécessite une saisie de l’utilisateur/utilisatrice."
+
+#: views/admin/field.php:97
+msgid "Required"
+msgstr "Obligatoire"
+
+#: views/admin/field.php:90
+msgid "Instructions can be used to display extra information near the field. Keep it short."
+msgstr "Les instructions peuvent être utilisées pour afficher des informations supplémentaires à proximité du champ. Soyez bref."
+
+#: views/admin/field.php:89
+msgid "Instructions"
+msgstr "Instructions"
+
+#: views/admin/field.php:80
+msgid "This is the label that is shown next to the field."
+msgstr "Il s’agit du libellé qui s’affiche à côté du champ."
+
+#: views/admin/field.php:79
+msgid "Label"
+msgstr "Libellé"
+
+#: views/admin/field.php:71
+msgid "What type of field should this be?"
+msgstr "De quel type de champ s’agit-il ?"
+
+#: views/admin/conditions.php:78 views/admin/settings/conditionals.php:41
+msgid "And"
+msgstr "Et"
+
+#: views/admin/conditions.php:33 views/admin/conditions.php:86
+#: views/admin/settings/conditionals.php:45
+msgid "Or"
+msgstr "Ou"
+
+#: views/admin/conditions.php:28
+msgid "Add your first rule"
+msgstr "Ajouter votre première règle"
+
+#: views/admin/conditions.php:23
+msgid "Add a set of rules to determine when this field group should appear."
+msgstr "Ajouter un ensemble de règles pour déterminer quand ce groupe de champs doit apparaître."
+
+#: views/admin/conditions.php:21
+msgid "Rules"
+msgstr "Règles"
+
+#: includes/controllers/class-product-controller.php:146
+msgid "The field \"%s\" is required."
+msgstr "Le champ « %s » est obligatoire."
+
+#: includes/controllers/class-product-controller.php:128
+msgid "Error adding product to cart."
+msgstr "Erreur lors de l’ajout du produit."
+
+#: includes/controllers/class-admin-controller.php:401
+msgid "When should this field group be displayed?"
+msgstr "Quand ce groupe de champs doit-il être affiché ?"
+
+#: includes/controllers/class-admin-controller.php:401
+msgid "Conditions"
+msgstr "Conditions"
+
+#: includes/controllers/class-admin-controller.php:248
+msgid "Product fields"
+msgstr "Champs du produit"
+
+#: includes/controllers/class-admin-controller.php:237
+#: includes/controllers/class-product-controller.php:101
+msgid "Select options"
+msgstr "Sélectionner les options"
+
+#: includes/controllers/class-admin-controller.php:236
+msgid "When a product has custom fields, what should the \"add to cart\" button say?"
+msgstr "Lorsqu’un produit comporte des champs personnalisés, que doit indiquer le bouton « Ajouter au panier » ?"
+
+#: includes/controllers/class-admin-controller.php:233
+msgid "\"Add to cart\" button text"
+msgstr "Libellé du bouton « Ajouter au panier »"
+
+#: includes/controllers/class-admin-controller.php:229
+msgid "When a user has filled out your fields, should they be summarized on their checkout page?"
+msgstr "Lorsqu’un internaute a rempli vos champs, doivent-ils être récapitulés sur la page de commande ?"
+
+#: includes/controllers/class-admin-controller.php:228
+msgid "Show on the checkout page."
+msgstr "Afficher sur la page de paiement."
+
+#: includes/controllers/class-admin-controller.php:224
+msgid "Show on checkout"
+msgstr "Afficher lors de la commande"
+
+#: includes/controllers/class-admin-controller.php:220
+msgid "When a user has filled out your fields, should they be summarized on their cart page after adding the product to their cart?"
+msgstr "Lorsqu’un internaute a rempli vos champs, doivent-ils être récapitulés sur la page panier après avoir ajouté le produit au panier ?"
+
+#: includes/controllers/class-admin-controller.php:219
+msgid "Show on customer's cart page."
+msgstr "Afficher sur la page panier du client."
+
+#: includes/controllers/class-admin-controller.php:215
+msgid "Show in cart"
+msgstr "Afficher dans le panier"
+
+#: includes/controllers/class-admin-controller.php:210
+msgid "Product field settings"
+msgstr "Réglages du champ du produit"
+
+#: includes/controllers/class-admin-controller.php:177
+#: includes/controllers/class-admin-controller.php:410
+msgid "Field group layout settings"
+msgstr "Réglages de la mise en page du groupe de champs"
+
+#: includes/controllers/class-admin-controller.php:177
+#: includes/controllers/class-admin-controller.php:410
+msgid "Layout"
+msgstr "Mise en page"
+
+#: includes/controllers/class-admin-controller.php:169
+#: includes/controllers/class-admin-controller.php:392
+msgid "Add some custom fields to this group."
+msgstr "Ajouter des champs personnalisés à ce groupe."
+
+#: includes/controllers/class-admin-controller.php:158
+msgid "Custom fields"
+msgstr "Champs personnalisés"
+
+#: includes/controllers/class-admin-controller.php:143
+msgid "Copy"
+msgstr "Copier"
+
+#: includes/controllers/class-admin-controller.php:114
+msgid "Global fields"
+msgstr "Champs globaux"
+
+#: includes/controllers/class-admin-controller.php:113
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/controllers/class-admin-controller.php:103
+#: includes/controllers/class-admin-controller.php:104
+msgid "Product Fields"
+msgstr "Champs du produit"
+
+#: includes/controllers/class-admin-controller.php:82
+msgid "You've reached the amount of field groups you can create in the free version. Please consider upgrading to premium to add unlimited field groups. Thank you!"
+msgstr "Vous avez atteint le nombre de groupes de champs que vous pouvez créer dans la version gratuite. Veuillez envisager de mettre à niveau vers la version premium pour ajouter un nombre illimité de groupes de champs. Merci !"
+
+#: includes/controllers/class-admin-controller.php:81
+msgid "Please add some fields first."
+msgstr "Veuillez d’abord ajouter quelques champs."
+
+#: includes/controllers/class-admin-controller.php:80
+msgid "Please add a field group title first."
+msgstr "Veuillez d’abord ajouter un titre de groupe de champs."
+
+#: includes/classes/class-woocommerce-service.php:111
+msgid "any"
+msgstr "tout"
+
+#: includes/classes/class-wapf-list-table.php:221
+msgid "Trash"
+msgstr "Corbeille"
+
+#: includes/classes/class-wapf-list-table.php:212
+msgid "All"
+msgstr "Tout"
+
+#: includes/classes/class-wapf-list-table.php:182
+msgid "Move to Trash"
+msgstr "Déplacer vers la corbeille"
+
+#: includes/classes/class-wapf-list-table.php:175
+msgid "No Product Field Groups found."
+msgstr "Aucun groupe de champs de produits n’a été trouvé."
+
+#: includes/classes/class-wapf-list-table.php:149
+#: includes/classes/class-wapf-list-table.php:218
+msgid "Draft"
+msgstr "Brouillon"
+
+#: includes/classes/class-wapf-list-table.php:139
+msgctxt "verb"
+msgid "Trash"
+msgstr "Mettre à la corbeille"
+
+#: includes/classes/class-wapf-list-table.php:138
+msgid "Move &#8220;%s&#8221; to the Trash"
+msgstr "Déplacer « %s » vers la corbeille"
+
+#: includes/classes/class-wapf-list-table.php:130
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: includes/classes/class-wapf-list-table.php:129
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr "Supprimer « %s » définitivement"
+
+#: includes/classes/class-wapf-list-table.php:121
+msgid "Restore"
+msgstr "Restaurer"
+
+#: includes/classes/class-wapf-list-table.php:120
+msgid "Restore &#8220;%s&#8221; from the Trash"
+msgstr "Restaurer « %s » depuis la corbeille"
+
+#: includes/classes/class-wapf-list-table.php:109
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: includes/classes/class-wapf-list-table.php:108
+msgid "Duplicate &#8220;%s&#8221;"
+msgstr "Dupliquer « %s »"
+
+#: includes/classes/class-wapf-list-table.php:102
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/classes/class-wapf-list-table.php:101
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Modifier « %s »"
+
+#: includes/classes/class-wapf-list-table.php:64
+msgid "Last Modified"
+msgstr "Dernière modification"
+
+#: includes/classes/class-wapf-list-table.php:61
+msgid "Scheduled"
+msgstr "Planifié"
+
+#: includes/classes/class-wapf-list-table.php:59
+msgid "Missed schedule"
+msgstr "Planification manquée"
+
+#: includes/classes/class-wapf-list-table.php:56
+#: includes/classes/class-wapf-list-table.php:215
+msgid "Published"
+msgstr "Publié"
+
+#: includes/classes/class-wapf-list-table.php:51
+msgid "Y/m/d"
+msgstr "d/m/Y"
+
+#: includes/classes/class-wapf-list-table.php:49
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: includes/classes/class-wapf-list-table.php:42
+msgid "Y/m/d g:i:s a"
+msgstr "d/m/Y H:i:s"
+
+#: includes/classes/class-wapf-list-table.php:39
+msgid "Unpublished"
+msgstr "Dépublié"
+
+#: includes/classes/class-wapf-list-table.php:17
+#: includes/controllers/class-admin-controller.php:169
+#: includes/controllers/class-admin-controller.php:392
+msgid "Fields"
+msgstr "Champs"
+
+#: includes/classes/class-wapf-list-table.php:16 views/admin/field.php:70
+msgid "Type"
+msgstr "Type"
+
+#: includes/classes/class-wapf-list-table.php:15
+msgid "Title"
+msgstr "Titre"
+
+#: includes/classes/class-html.php:171
+msgid "required"
+msgstr "obligatoire"
+
+#: includes/classes/class-fields.php:422 includes/classes/class-fields.php:433
+msgid "false"
+msgstr "faux"
+
+#: includes/classes/class-fields.php:422 includes/classes/class-fields.php:433
+msgid "true"
+msgstr "vrai"
+
+#: includes/classes/class-fields.php:406
+msgid "Amount &times; character count (Pro only)"
+msgstr "Montant &times; nombre de caractères (Pro uniquement)"
+
+#: includes/classes/class-fields.php:405
+msgid "Amount &times; field value (Pro only)"
+msgstr "Montant &times; valeur du champ (Pro uniquement)"
+
+#: includes/classes/class-fields.php:404
+msgid "Percentage based (Pro only)"
+msgstr "Basé sur le pourcentage (Pro uniquement)"
+
+#: includes/classes/class-fields.php:403
+msgid "Formula (Pro only)"
+msgstr "Formule (Pro uniquement)"
+
+#: includes/classes/class-fields.php:402
+msgid "Quantity based flat fee (Pro only)"
+msgstr "Forfait basé sur la quantité (Pro uniquement)"
+
+#: includes/classes/class-fields.php:401
+msgid "Flat fee (not quantity-based)"
+msgstr "Forfait (non basé sur la quantité)"
+
+#: includes/classes/class-fields.php:315 includes/classes/class-fields.php:323
+msgid "Enter your text here. Do you need to add shortcodes & HTML? Consider upgrading to our Pro version."
+msgstr "Saisir votre texte ici. Avez-vous besoin d’ajouter des codes courts et du HTML ? Pensez à mettre à niveau vers notre version Pro."
+
+#: includes/classes/class-fields.php:314 includes/classes/class-fields.php:322
+msgid "Content"
+msgstr "Contenu"
+
+#: includes/classes/class-fields.php:304
+msgid "Each option is a radio button."
+msgstr "Chaque option est un bouton radio."
+
+#: includes/classes/class-fields.php:292
+msgid "Each option is a checkbox."
+msgstr "Chaque option est une case à cocher."
+
+#: includes/classes/class-fields.php:281
+msgid "Add the options for this select list."
+msgstr "Ajouter les options pour cette liste déroulante."
+
+#: includes/classes/class-fields.php:280 includes/classes/class-fields.php:291
+#: includes/classes/class-fields.php:303
+msgid "Options"
+msgstr "Options"
+
+#: includes/classes/class-fields.php:223
+msgid "No maximum"
+msgstr "Aucun maximum"
+
+#: includes/classes/class-fields.php:222
+msgid "Maximum value"
+msgstr "Valeur maximale"
+
+#: includes/classes/class-fields.php:217
+msgid "No minimum"
+msgstr "Aucun minimum"
+
+#: includes/classes/class-fields.php:216
+msgid "Minimum value"
+msgstr "Valeur minimale"
+
+#: includes/classes/class-fields.php:197
+msgid "Integer & decimals"
+msgstr "Entiers et décimaux"
+
+#: includes/classes/class-fields.php:196
+msgid "Integer"
+msgstr "Entier"
+
+#: includes/classes/class-fields.php:194
+msgid "Allow integers (whole numbers) or decimals."
+msgstr "Autoriser entiers et décimaux (nombres réels)"
+
+#: includes/classes/class-fields.php:193
+msgid "Number type"
+msgstr "Type de nombre"
+
+#: includes/classes/class-fields.php:158 includes/classes/class-fields.php:179
+#: includes/classes/class-fields.php:211 includes/classes/class-fields.php:244
+#: includes/classes/class-fields.php:266
+msgid "Appears within the input field"
+msgstr "Apparaît dans le champ de saisie"
+
+#: includes/classes/class-fields.php:157 includes/classes/class-fields.php:178
+#: includes/classes/class-fields.php:210 includes/classes/class-fields.php:243
+#: includes/classes/class-fields.php:265
+msgid "Placeholder text"
+msgstr "Texte indicatif"
+
+#: includes/classes/class-fields.php:143 includes/classes/class-fields.php:164
+#: includes/classes/class-fields.php:185 includes/classes/class-fields.php:229
+#: includes/classes/class-fields.php:251 includes/classes/class-fields.php:272
+msgid "Should the price of the product or cart change when the user interacts with this field?"
+msgstr "Le prix du produit ou du panier doit-il être modifié lorsque l’internaute interagit avec ce champ ?"
+
+#: includes/classes/class-fields.php:142 includes/classes/class-fields.php:163
+#: includes/classes/class-fields.php:184 includes/classes/class-fields.php:228
+#: includes/classes/class-fields.php:250 includes/classes/class-fields.php:271
+#: views/admin/settings/options.php:19
+msgid "Adjust pricing"
+msgstr "Ajuster les prix"
+
+#: includes/classes/class-fields.php:137 includes/classes/class-fields.php:152
+#: includes/classes/class-fields.php:173 includes/classes/class-fields.php:205
+#: includes/classes/class-fields.php:238 includes/classes/class-fields.php:260
+msgid "The pre-set value of the field when the page loads."
+msgstr "La valeur prédéfinie du champ lors du chargement de la page."
+
+#: includes/classes/class-fields.php:136 includes/classes/class-fields.php:151
+#: includes/classes/class-fields.php:172 includes/classes/class-fields.php:204
+#: includes/classes/class-fields.php:237 includes/classes/class-fields.php:259
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+#: includes/classes/class-fields.php:132
+msgid "Unchecked"
+msgstr "Non coché"
+
+#: includes/classes/class-fields.php:131
+msgid "Checked"
+msgstr "Coché"
+
+#: includes/classes/class-fields.php:126
+msgid "Displays text alongside the checkbox."
+msgstr "Affiche le texte à côté de la case à cocher."
+
+#: includes/classes/class-fields.php:125
+msgid "Message"
+msgstr "Message"
+
+#: includes/classes/class-fields.php:106
+msgid "Layout: section"
+msgstr "Mise en page : section"
+
+#: includes/classes/class-fields.php:101
+msgid "Content: image"
+msgstr "Contenu : image"
+
+#: includes/classes/class-fields.php:86
+msgid "Text swatches"
+msgstr "Échantillons de texte"
+
+#: includes/classes/class-fields.php:81
+msgid "Color swatches"
+msgstr "Échantillons de couleurs"
+
+#: includes/classes/class-fields.php:76
+msgid "Image swatches"
+msgstr "Échantillons d’image"
+
+#: includes/classes/class-fields.php:71
+#: includes/classes/class-wapf-list-table.php:18
+msgid "Date"
+msgstr "Date"
+
+#: includes/classes/class-fields.php:66
+msgid "File upload"
+msgstr "Téléverser un fichier"
+
+#: includes/classes/class-fields.php:61
+msgid "Content: paragraph"
+msgstr "Contenu : paragraphe"
+
+#: includes/classes/class-fields.php:56
+msgid "Radio buttons"
+msgstr "Boutons radio"
+
+#: includes/classes/class-fields.php:51
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+#: includes/classes/class-fields.php:46
+msgid "True/False"
+msgstr "Vrai/faux"
+
+#: includes/classes/class-fields.php:41
+msgid "Select"
+msgstr "Sélectionner"
+
+#: includes/classes/class-fields.php:36
+msgid "URL"
+msgstr "URL"
+
+#: includes/classes/class-fields.php:31
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/classes/class-fields.php:26
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/classes/class-fields.php:21
+msgid "Text Area"
+msgstr "Zone de texte"
+
+#: includes/classes/class-fields.php:16
+msgid "Text"
+msgstr "Texte"
+
+#: includes/classes/class-conditions.php:201
+msgid "Product type"
+msgstr "Type de produit"
+
+#: includes/classes/class-conditions.php:195
+msgid "Product tag"
+msgstr "Étiquette du produit"
+
+#: includes/classes/class-conditions.php:189
+msgid "Product category"
+msgstr "Catégorie de produit"
+
+#: includes/classes/class-conditions.php:184
+msgid "Product attribute"
+msgstr "Attribut du produit"
+
+#: includes/classes/class-conditions.php:178
+msgid "Product variation"
+msgstr "Variation de produit"
+
+#: includes/classes/class-conditions.php:168
+msgid "Not in list"
+msgstr "Pas dans la liste"
+
+#: includes/classes/class-conditions.php:159
+msgid "In list"
+msgstr "Dans la liste"
+
+#: includes/classes/class-conditions.php:149
+msgid "Is not equal to"
+msgstr "N’est pas égal à"
+
+#: includes/classes/class-conditions.php:142
+#: includes/classes/class-conditions.php:152
+#: includes/classes/class-conditions.php:162
+#: includes/classes/class-conditions.php:171
+msgid "Search a product..."
+msgstr "Rechercher un produit…"
+
+#: includes/classes/class-conditions.php:139
+msgid "Is equal to"
+msgstr "Est égal à"
+
+#: includes/classes/class-conditions.php:131
+#: includes/classes/class-conditions.php:135
+#: includes/classes/class-helper.php:29
+msgid "Product"
+msgstr "Produit"
+
+#: includes/classes/class-conditions.php:124
+msgid "User role"
+msgstr "Rôle du compte"
+
+#: includes/classes/class-conditions.php:118
+msgid "Not logged in"
+msgstr "Non connecté"
+
+#: includes/classes/class-conditions.php:114
+msgid "Logged in"
+msgstr "Connecté"
+
+#: includes/classes/class-conditions.php:110
+msgid "Authentication"
+msgstr "Authentification"
+
+#: includes/classes/class-conditions.php:106
+msgid "User"
+msgstr "Compte"
+
+#: includes/classes/class-conditions.php:69
+msgid "Is not checked"
+msgstr "N’est pas coché"
+
+#: includes/classes/class-conditions.php:68
+msgid "Is checked"
+msgstr "Est coché"
+
+#: includes/classes/class-conditions.php:52
+msgid "Value is lesser than"
+msgstr "La valeur est inférieure à"
+
+#: includes/classes/class-conditions.php:51
+msgid "Value is greater than"
+msgstr "La valeur est supérieure à"
+
+#: includes/classes/class-conditions.php:21
+#: includes/classes/class-conditions.php:31
+#: includes/classes/class-conditions.php:41
+#: includes/classes/class-conditions.php:53
+#: includes/classes/class-conditions.php:63
+msgid "Value contains (Pro only)"
+msgstr "La valeur contient (Pro uniquement)"
+
+#: includes/classes/class-conditions.php:20
+#: includes/classes/class-conditions.php:30
+#: includes/classes/class-conditions.php:40
+#: includes/classes/class-conditions.php:50
+#: includes/classes/class-conditions.php:62
+#: includes/classes/class-conditions.php:77
+#: includes/classes/class-conditions.php:85
+#: includes/classes/class-conditions.php:93
+msgid "Value is not equal to"
+msgstr "La valeur n’est pas égale à"
+
+#: includes/classes/class-conditions.php:19
+#: includes/classes/class-conditions.php:29
+#: includes/classes/class-conditions.php:39
+#: includes/classes/class-conditions.php:49
+#: includes/classes/class-conditions.php:61
+#: includes/classes/class-conditions.php:76
+#: includes/classes/class-conditions.php:84
+#: includes/classes/class-conditions.php:92
+msgid "Value is equal to"
+msgstr "La valeur est égale à"
+
+#: includes/classes/class-conditions.php:18
+#: includes/classes/class-conditions.php:28
+#: includes/classes/class-conditions.php:38
+#: includes/classes/class-conditions.php:48
+#: includes/classes/class-conditions.php:60
+#: includes/classes/class-conditions.php:75
+#: includes/classes/class-conditions.php:83
+#: includes/classes/class-conditions.php:91
+msgid "Value is any value"
+msgstr "La valeur est n’importe quelle valeur"
+
+#: includes/classes/class-conditions.php:17
+#: includes/classes/class-conditions.php:27
+#: includes/classes/class-conditions.php:37
+#: includes/classes/class-conditions.php:47
+#: includes/classes/class-conditions.php:59
+#: includes/classes/class-conditions.php:74
+#: includes/classes/class-conditions.php:82
+#: includes/classes/class-conditions.php:90
+msgid "Value is empty"
+msgstr "La valeur est vide"
+
+#: class-wapf.php:87
+msgid "No Field Groups found in Trash"
+msgstr "Aucun groupe de champs trouvés dans la corbeille"
+
+#: class-wapf.php:86
+msgid "No Field Groups found"
+msgstr "Aucun groupe de champs trouvé"
+
+#: class-wapf.php:85
+msgid "Search Field Groups"
+msgstr "Rechercher des groupes de champs"
+
+#: class-wapf.php:84
+msgid "View Field Group"
+msgstr "Afficher le groupe de champs"
+
+#: class-wapf.php:83
+msgid "New Field Group"
+msgstr "Nouveau groupe de champs"
+
+#: class-wapf.php:82
+msgid "Edit Product Field Group"
+msgstr "Modifier le groupe de champs du produit"
+
+#: class-wapf.php:81
+msgid "Add New Product Field Group"
+msgstr "Ajouter un nouveau groupe de champs du produit"
+
+#: class-wapf.php:80 views/admin/cpt-list-table.php:12
+msgid "Add New"
+msgstr "Ajouter"
+
+#: class-wapf.php:79
+msgid "Field Group"
+msgstr "Groupe de champs"
+
+#: class-wapf.php:78 includes/controllers/class-admin-controller.php:526
+msgid "Product Field Groups"
+msgstr "Groupe de champs du produit"
+
+#. Author URI of the plugin
+#: advanced-product-fields-for-woocommerce.php
+msgid "https://www.studiowombat.com/?utm_source=apffree&utm_medium=plugin&utm_campaign=plugins"
+msgstr "https://www.studiowombat.com/?utm_source=apffree&utm_medium=plugin&utm_campaign=plugins"
+
+#. Author of the plugin
+#: advanced-product-fields-for-woocommerce.php
+msgid "StudioWombat"
+msgstr "StudioWombat"
+
+#. Description of the plugin
+#: advanced-product-fields-for-woocommerce.php
+msgid "Customize WooCommerce product pages with powerful and intuitive fields ( = product add-ons)."
+msgstr "Personnaliser les pages produits de WooCommerce avec des champs puissants et intuitifs (= modules complémentaires de produits)."
+
+#. Plugin URI of the plugin
+#: advanced-product-fields-for-woocommerce.php
+msgid "https://www.studiowombat.com/plugin/advanced-product-fields-for-woocommerce/?utm_source=apffree&utm_medium=plugin&utm_campaign=plugins"
+msgstr "https://www.studiowombat.com/plugin/advanced-product-fields-for-woocommerce/?utm_source=apffree&utm_medium=plugin&utm_campaign=plugins"
+
+#. Plugin Name of the plugin
+#: advanced-product-fields-for-woocommerce.php
+msgid "Advanced Product Fields for WooCommerce"
+msgstr "Advanced Product Fields for WooCommerce"

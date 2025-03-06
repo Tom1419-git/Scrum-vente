@@ -1233,3 +1233,450 @@ Version: '5.7.11'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2025-03-06T07:38:07.697708Z 58 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
 2025-03-06T07:38:07.765578Z 58 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
 2025-03-06T07:38:07.765578Z 58 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:38:34.442053Z 60 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:38:35.061803Z 60 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:38:35.061803Z 60 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:02.261276Z 62 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:02.466574Z 62 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:02.467575Z 62 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:02.971177Z 64 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:03.164988Z 64 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:03.164988Z 64 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:17.988233Z 65 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:18.633118Z 65 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:18.648773Z 65 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:33.050276Z 67 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:33.237324Z 67 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:39:33.239312Z 67 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.344703Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.398144Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.398144Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.398144Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_api_keys from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_attribute_taxonomies from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_items from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_itemmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rates from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rate_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zones from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_methods from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.413787Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokens from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokenmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_webhooks from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_download_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_product_meta_lookup from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_api_keys from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_attribute_taxonomies from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_items from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_itemmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rates from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.429463Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rate_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zones from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_methods from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokens from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokenmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_webhooks from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_download_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_product_meta_lookup from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:41:33.445088Z 68 [ERROR] Build InnoDB index translation table for Table .\wordpress\wp_comments failed
+2025-03-06T07:41:33.445088Z 68 [ERROR] InnoDB: Table wordpress/wp_comments contains 6 indexes inside InnoDB, which is different from the number of indexes 7 defined in MySQL
+2025-03-06T07:41:33.445088Z 68 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:41:33.445088Z 68 [ERROR] Table wordpress/wp_comments contains fewer indexes inside InnoDB than are defined in the MySQL .frm file. Have you mixed up .frm files from different installations? Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+
+2025-03-06T07:41:33.460715Z 68 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+07:41:33 UTC - mysqld got exception 0xc0000005 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+Attempting to collect some information that could help diagnose the problem.
+As this is a crash and something is definitely wrong, the information
+collection process might fail.
+
+key_buffer_size=8388608
+read_buffer_size=131072
+max_used_connections=7
+max_threads=151
+thread_count=1
+connection_count=1
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 67526 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x1d65bc28
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+9e93e4    mysqld.exe!?reserve@?$vector@EV?$allocator@E@std@@@std@@QAEXI@Z()
+412b98    mysqld.exe!?fill_schema_proc@@YAHPAVTHD@@PAUTABLE_LIST@@PAVItem@@@Z()
+41788d    mysqld.exe!?fill_information_schema_tables@THD@@QAE_NXZ()
+40f171    mysqld.exe!?get_all_tables@@YAHPAVTHD@@PAUTABLE_LIST@@PAVItem@@@Z()
+41744a    mysqld.exe!?deallocate@?$allocator@Ust_mysql_show_var@@@std@@QAEXPAUst_mysql_show_var@@I@Z()
+41943f    mysqld.exe!?get_schema_tables_result@@YA_NPAVJOIN@@W4enum_schema_table_state@@@Z()
+4ffdc6    mysqld.exe!?prepare_result@JOIN@@QAE_NXZ()
+4fdd95    mysqld.exe!?handle_query@@YA_NPAVTHD@@PAULEX@@PAVQuery_result@@_K3@Z()
+3dda3d    mysqld.exe!?execute_init_command@@YAXPAVTHD@@PAUst_mysql_lex_string@@PAUst_mysql_rwlock@@@Z()
+3df843    mysqld.exe!?mysql_execute_command@@YAHPAVTHD@@_N@Z()
+3e3010    mysqld.exe!?mysql_parse@@YAXPAVTHD@@PAVParser_state@@@Z()
+3dc8fb    mysqld.exe!?dispatch_command@@YA_NPAVTHD@@PBTCOM_DATA@@W4enum_server_command@@@Z()
+3dd5e4    mysqld.exe!?do_command@@YA_NPAVTHD@@@Z()
+39158c    mysqld.exe!handle_connection()
+c2a531    mysqld.exe!?reserve@?$vector@EV?$allocator@E@std@@@std@@QAEXI@Z()
+9a18e6    mysqld.exe!my_thread_once()
+cd901a    mysqld.exe!my_wildcmp_mb()
+cd9161    mysqld.exe!my_wildcmp_mb()
+7680fcc9    KERNEL32.DLL!BaseThreadInitThunk()
+77ae82ae    ntdll.dll!RtlGetAppContainerNamedObjectPath()
+77ae827e    ntdll.dll!RtlGetAppContainerNamedObjectPath()
+
+Trying to get some variables.
+Some pointers may be invalid and cause the dump to abort.
+Query (1d806c90): SHOW INDEX FROM wp_comments WHERE column_name = 'comment_type' and key_name = 'woo_idx_comment_type'
+Connection ID (thread ID): 68
+Status: NOT_KILLED
+
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2025-03-06T07:53:26.596012Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2025-03-06T07:53:26.596012Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2025-03-06T07:53:26.596012Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2025-03-06T07:53:26.596012Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2025-03-06T07:53:26.596012Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2025-03-06T07:53:26.596012Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 15780 ...
+2025-03-06T07:53:26.596012Z 0 [ERROR] Can't open shared library 'C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2025-03-06T07:53:26.596012Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Uses event mutexes
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Memory barrier is not used
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Number of pools: 1
+2025-03-06T07:53:26.596012Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2025-03-06T07:53:26.627249Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2025-03-06T07:53:26.642914Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 11045156
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 11046367
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 11046367
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Database was not shutdown normally!
+2025-03-06T07:53:26.658533Z 0 [Note] InnoDB: Starting crash recovery.
+2025-03-06T07:53:26.712006Z 0 [Note] InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percent: 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+2025-03-06T07:53:27.221135Z 0 [Note] InnoDB: Apply batch completed
+2025-03-06T07:53:27.476021Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2025-03-06T07:53:27.476021Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2025-03-06T07:53:27.476021Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2025-03-06T07:53:27.476021Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2025-03-06T07:53:27.491628Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2025-03-06T07:53:27.491628Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2025-03-06T07:53:27.491628Z 0 [Note] InnoDB: Waiting for purge to start
+2025-03-06T07:53:27.560328Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 11046367
+2025-03-06T07:53:27.560328Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-03-06T07:53:27.560328Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2025-03-06T07:53:27.560328Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2025-03-06T07:53:27.560328Z 0 [Note] InnoDB: Buffer pool(s) load completed at 250306  8:53:27
+2025-03-06T07:53:27.560328Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2025-03-06T07:53:27.560328Z 0 [Note] IPv6 is available.
+2025-03-06T07:53:27.560328Z 0 [Note]   - '::' resolves to '::';
+2025-03-06T07:53:27.560328Z 0 [Note] Server socket created on IP: '::'.
+2025-03-06T07:53:27.591525Z 0 [Note] Event Scheduler: Loaded 0 events
+2025-03-06T07:53:27.591525Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: ready for connections.
+Version: '5.7.11'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2025-03-06T07:53:32.967547Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_api_keys from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_attribute_taxonomies from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.065696Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.080939Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_items from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.082939Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_itemmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.083938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rates from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.084938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rate_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.085938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zones from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.086938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.088937Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_methods from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.089937Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokens from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.090938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokenmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.091938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.092937Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_webhooks from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.094938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_download_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.095938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_product_meta_lookup from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.096938Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.097868Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.098884Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_api_keys from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.099869Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_attribute_taxonomies from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.100869Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_downloadable_product_permissions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.102869Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_items from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.103868Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_order_itemmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.104876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rates from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.105876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_tax_rate_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.106876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zones from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.107876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_locations from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.108876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_shipping_zone_methods from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.109876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokens from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.110876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_payment_tokenmeta from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.111876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.112876Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_webhooks from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.114151Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_download_log from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.114151Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_product_meta_lookup from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.114151Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:33.114151Z 2 [ERROR] Build InnoDB index translation table for Table .\wordpress\wp_comments failed
+2025-03-06T07:53:33.114151Z 2 [ERROR] InnoDB: Table wordpress/wp_comments contains 6 indexes inside InnoDB, which is different from the number of indexes 7 defined in MySQL
+2025-03-06T07:53:33.114151Z 2 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:53:33.114151Z 2 [ERROR] Table wordpress/wp_comments contains fewer indexes inside InnoDB than are defined in the MySQL .frm file. Have you mixed up .frm files from different installations? Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+
+2025-03-06T07:53:33.114151Z 2 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+07:53:33 UTC - mysqld got exception 0xc0000005 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+Attempting to collect some information that could help diagnose the problem.
+As this is a crash and something is definitely wrong, the information
+collection process might fail.
+
+key_buffer_size=8388608
+read_buffer_size=131072
+max_used_connections=1
+max_threads=151
+thread_count=1
+connection_count=1
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 67526 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x1d3d3790
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+9e93e4    mysqld.exe!?reserve@?$vector@EV?$allocator@E@std@@@std@@QAEXI@Z()
+412b98    mysqld.exe!?fill_schema_proc@@YAHPAVTHD@@PAUTABLE_LIST@@PAVItem@@@Z()
+41788d    mysqld.exe!?fill_information_schema_tables@THD@@QAE_NXZ()
+40f171    mysqld.exe!?get_all_tables@@YAHPAVTHD@@PAUTABLE_LIST@@PAVItem@@@Z()
+41744a    mysqld.exe!?deallocate@?$allocator@Ust_mysql_show_var@@@std@@QAEXPAUst_mysql_show_var@@I@Z()
+41943f    mysqld.exe!?get_schema_tables_result@@YA_NPAVJOIN@@W4enum_schema_table_state@@@Z()
+4ffdc6    mysqld.exe!?prepare_result@JOIN@@QAE_NXZ()
+4fdd95    mysqld.exe!?handle_query@@YA_NPAVTHD@@PAULEX@@PAVQuery_result@@_K3@Z()
+3dda3d    mysqld.exe!?execute_init_command@@YAXPAVTHD@@PAUst_mysql_lex_string@@PAUst_mysql_rwlock@@@Z()
+3df843    mysqld.exe!?mysql_execute_command@@YAHPAVTHD@@_N@Z()
+3e3010    mysqld.exe!?mysql_parse@@YAXPAVTHD@@PAVParser_state@@@Z()
+3dc8fb    mysqld.exe!?dispatch_command@@YA_NPAVTHD@@PBTCOM_DATA@@W4enum_server_command@@@Z()
+3dd5e4    mysqld.exe!?do_command@@YA_NPAVTHD@@@Z()
+39158c    mysqld.exe!handle_connection()
+c2a531    mysqld.exe!?reserve@?$vector@EV?$allocator@E@std@@@std@@QAEXI@Z()
+9a18e6    mysqld.exe!my_thread_once()
+cd901a    mysqld.exe!my_wildcmp_mb()
+cd9161    mysqld.exe!my_wildcmp_mb()
+7680fcc9    KERNEL32.DLL!BaseThreadInitThunk()
+77ae82ae    ntdll.dll!RtlGetAppContainerNamedObjectPath()
+77ae827e    ntdll.dll!RtlGetAppContainerNamedObjectPath()
+
+Trying to get some variables.
+Some pointers may be invalid and cause the dump to abort.
+Query (1d2edfd0): SHOW INDEX FROM wp_comments WHERE column_name = 'comment_type' and key_name = 'woo_idx_comment_type'
+Connection ID (thread ID): 2
+Status: NOT_KILLED
+
+The manual page at http://dev.mysql.com/doc/mysql/en/crashing.html contains
+information that should help you find out what is causing the crash.
+2025-03-06T07:53:45.404541Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2025-03-06T07:53:45.404541Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2025-03-06T07:53:45.404541Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2025-03-06T07:53:45.404541Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2025-03-06T07:53:45.404541Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2025-03-06T07:53:45.404541Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 15320 ...
+2025-03-06T07:53:45.404541Z 0 [ERROR] Can't open shared library 'C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2025-03-06T07:53:45.420166Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Uses event mutexes
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Memory barrier is not used
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Number of pools: 1
+2025-03-06T07:53:45.420166Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2025-03-06T07:53:45.457928Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2025-03-06T07:53:45.457928Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 11046475
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 11047679
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 11047679
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Database was not shutdown normally!
+2025-03-06T07:53:45.489178Z 0 [Note] InnoDB: Starting crash recovery.
+2025-03-06T07:53:45.537124Z 0 [Note] InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percent: 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+2025-03-06T07:53:46.059525Z 0 [Note] InnoDB: Apply batch completed
+2025-03-06T07:53:46.196992Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2025-03-06T07:53:46.196992Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2025-03-06T07:53:46.196992Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2025-03-06T07:53:46.196992Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2025-03-06T07:53:46.212611Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2025-03-06T07:53:46.212611Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2025-03-06T07:53:46.212611Z 0 [Note] InnoDB: Waiting for purge to start
+2025-03-06T07:53:46.281639Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 11047679
+2025-03-06T07:53:46.281639Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2025-03-06T07:53:46.281639Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-03-06T07:53:46.281639Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2025-03-06T07:53:46.281639Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2025-03-06T07:53:46.281639Z 0 [Note] IPv6 is available.
+2025-03-06T07:53:46.281639Z 0 [Note]   - '::' resolves to '::';
+2025-03-06T07:53:46.281639Z 0 [Note] Server socket created on IP: '::'.
+2025-03-06T07:53:46.281639Z 0 [Note] InnoDB: Buffer pool(s) load completed at 250306  8:53:46
+2025-03-06T07:53:46.312890Z 0 [Note] Event Scheduler: Loaded 0 events
+2025-03-06T07:53:46.312890Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: ready for connections.
+Version: '5.7.11'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2025-03-06T07:53:48.798931Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:48.960820Z 2 [ERROR] InnoDB: Page [page id: space=63, page number=3] log sequence number 11502842 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.960820Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:48.962820Z 2 [ERROR] InnoDB: Page [page id: space=64, page number=3] log sequence number 11528826 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.963815Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:48.965723Z 2 [ERROR] InnoDB: Page [page id: space=63, page number=5] log sequence number 11502952 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.966711Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:48.966711Z 2 [ERROR] InnoDB: Page [page id: space=64, page number=5] log sequence number 11503298 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.967711Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:48.968711Z 2 [ERROR] InnoDB: Page [page id: space=64, page number=4] log sequence number 11503237 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.969710Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:48.973710Z 2 [ERROR] InnoDB: Page [page id: space=65, page number=4] log sequence number 11527942 is in the future! Current system log sequence number 11047771.
+2025-03-06T07:53:48.974710Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:50.168507Z 2 [ERROR] InnoDB: Page [page id: space=65, page number=3] log sequence number 11527908 is in the future! Current system log sequence number 11048081.
+2025-03-06T07:53:50.169506Z 2 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:53:50.400912Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:50.403224Z 2 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:51.024476Z 4 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:51.378398Z 4 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:51.378398Z 4 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:56.164126Z 5 [ERROR] Build InnoDB index translation table for Table .\wordpress\wp_comments failed
+2025-03-06T07:53:56.164126Z 5 [ERROR] InnoDB: Table wordpress/wp_comments contains 6 indexes inside InnoDB, which is different from the number of indexes 7 defined in MySQL
+2025-03-06T07:53:56.164126Z 5 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:53:56.164126Z 5 [ERROR] Table wordpress/wp_comments contains fewer indexes inside InnoDB than are defined in the MySQL .frm file. Have you mixed up .frm files from different installations? Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+
+2025-03-06T07:53:56.164126Z 5 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:53:56.164126Z 5 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:53:56.175179Z 5 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:53:56.882410Z 6 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:57.978552Z 6 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:53:57.978552Z 6 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:01.204010Z 7 [ERROR] Build InnoDB index translation table for Table .\wordpress\wp_comments failed
+2025-03-06T07:54:01.205010Z 7 [ERROR] InnoDB: Table wordpress/wp_comments contains 6 indexes inside InnoDB, which is different from the number of indexes 7 defined in MySQL
+2025-03-06T07:54:01.205010Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:01.206010Z 7 [ERROR] Table wordpress/wp_comments contains fewer indexes inside InnoDB than are defined in the MySQL .frm file. Have you mixed up .frm files from different installations? Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+
+2025-03-06T07:54:01.207010Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:01.212010Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:01.254665Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:01.257662Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:01.258662Z 7 [ERROR] InnoDB could not find key no 6 with name woo_idx_comment_type from dict cache for table wordpress/wp_comments
+2025-03-06T07:54:18.585251Z 9 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:18.968979Z 9 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:18.969969Z 9 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:25.852646Z 11 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:26.377839Z 11 [ERROR] InnoDB: Page [page id: space=63, page number=4] log sequence number 11502905 is in the future! Current system log sequence number 11166744.
+2025-03-06T07:54:26.380995Z 11 [ERROR] InnoDB: Your database may be corrupt or you may have copied the InnoDB tablespace but not the InnoDB log files. Please refer to http://dev.mysql.com/doc/refman/5.7/en/forcing-innodb-recovery.html for information about forcing recovery.
+2025-03-06T07:54:27.399937Z 17 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.522603Z 12 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.666670Z 12 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.681755Z 12 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.682757Z 12 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.947587Z 17 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:27.949106Z 17 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.040246Z 14 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.046245Z 13 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.053823Z 16 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.124606Z 15 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.243412Z 14 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.259052Z 13 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.259052Z 16 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.281173Z 13 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.281173Z 13 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.312475Z 16 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.312475Z 16 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.365595Z 15 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.381663Z 18 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.381663Z 15 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.381663Z 15 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.515269Z 18 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.535729Z 18 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.535729Z 18 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.811086Z 14 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.811086Z 14 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:28.991384Z 19 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:29.182464Z 19 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:29.212535Z 19 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:29.214525Z 19 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:30.036288Z 20 [Warning] InnoDB: Cannot open table wordpress/wp_wc_tax_rate_classes from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:30.202985Z 20 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:30.222896Z 20 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:30.224896Z 20 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:40.481052Z 22 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:40.938360Z 22 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:40.940357Z 22 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:41.671303Z 23 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:42.050370Z 23 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:42.060379Z 23 [Warning] InnoDB: Cannot open table wordpress/wp_woocommerce_sessions from the internal data dictionary of InnoDB though the .frm file for the table exists. Please refer to http://dev.mysql.com/doc/refman/5.7/en/innodb-troubleshooting.html for how to resolve the issue.
+2025-03-06T07:54:48.553406Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: Normal shutdown
+
+2025-03-06T07:54:48.553406Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down slave threads
+2025-03-06T07:54:48.553406Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2025-03-06T07:54:48.553406Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2025-03-06T07:54:48.553406Z 0 [Note] Binlog end
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'ngram'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'partition'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'MyISAM'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2025-03-06T07:54:48.553406Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2025-03-06T07:54:48.569041Z 0 [Note] Shutting down plugin 'InnoDB'
+2025-03-06T07:54:48.569041Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2025-03-06T07:54:48.569041Z 0 [Note] InnoDB: Starting shutdown...
+2025-03-06T07:54:48.691468Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\data\ib_buffer_pool
+2025-03-06T07:54:48.691468Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 250306  8:54:48
+2025-03-06T07:54:49.266146Z 0 [Note] InnoDB: Shutdown completed; log sequence number 11167490
+2025-03-06T07:54:49.266146Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2025-03-06T07:54:49.266146Z 0 [Note] Shutting down plugin 'MEMORY'
+2025-03-06T07:54:49.266146Z 0 [Note] Shutting down plugin 'CSV'
+2025-03-06T07:54:49.266146Z 0 [Note] Shutting down plugin 'sha256_password'
+2025-03-06T07:54:49.266146Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2025-03-06T07:54:49.266146Z 0 [Note] Shutting down plugin 'binlog'
+2025-03-06T07:54:49.266146Z 0 [Note] C:\Users\evagusarov\Documents\GitHub\Scrum-vente\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe: Shutdown complete
+
